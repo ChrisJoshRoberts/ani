@@ -1,0 +1,14 @@
+#carousel-height {
+  max-height: 290px;
+}
+
+body {
+  margin: 84px auto;
+  padding: 0 16px ;
+}
+img {
+  width: 60px;
+}
+p{
+  margin: 16px 0px;
+}
