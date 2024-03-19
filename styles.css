@@ -1,5 +1,8 @@
 #carousel-height {
-  max-height: 290px;
+  max-height: 300px;
+  img {
+    object-fit: cover;
+  }
 }
 
 body {
@@ -11,4 +14,10 @@ img {
 }
 p{
   margin: 16px 0px;
+}
+
+.carousel-item {
+  img {
+    object-fit: cover;
+  }
 }
